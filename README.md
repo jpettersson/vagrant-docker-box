@@ -10,5 +10,4 @@ Ubuntu 13.04 for local development with Docker.
 1. Install VirtualBox and Vagrant
 2. `vagrant up`
 3. `vagrant ssh`
-
-Have fun with docker!
+4. Have fun with docker!
